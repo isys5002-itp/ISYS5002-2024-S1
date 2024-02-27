@@ -5,3 +5,4 @@ Welcome to the introductory programming unit using Python notebooks. In this cou
 We have designed this unit to be accessible to both experienced and beginner programmers, and we encourage you to ask questions and explore the material at your own pace. Our goal is to provide you with the tools to think critically, solve problems, and develop your own unique programming style.
 
 Dr Rohini Balapumi (Unit Coordinator) & Ms Sisi Provis (Teaching Staff)
+
